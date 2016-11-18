@@ -1,2 +1,2 @@
-# guess-the-number
-Proyecto introductiorio de python
+# Guess the Number
+Un pequeño juego para la introducción a Python 3
