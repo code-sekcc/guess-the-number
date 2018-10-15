@@ -3,7 +3,7 @@
 import random
 
 
-numero = 69
+numero = random.randint(1,100)
 
 while True:
     adivinanza = input("Introduce un numero: ")
